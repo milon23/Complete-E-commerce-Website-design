@@ -1,0 +1,53 @@
+body{
+	background: #c1c1ff;
+
+}
+.thumbnails{
+	background:#dfdfdf;
+}
+.brand p{
+	color: #c1c1ff;
+
+}
+.thumbnail{
+	background: #c1c1ff;
+}
+#header{
+	background: #c1c1ff;
+}
+#footerSection{
+	background: #c1c1ff;
+	border-top: 0 ;
+}
+.span3{
+	color: #000000;
+}
+.span3{
+	color: #000000;
+}
+#footerSection a {
+  color: #000000;
+  display: block;
+  font-size: 11px;
+  line-height: 24px;
+  padding: 0;
+}
+.navbar-inner {
+  background: #464684 none repeat scroll 0 0;
+}
+.adminhome a {
+  background: black none repeat scroll 0 0;
+  border-radius: 50%;
+  color: #99cc00;
+  font-size: 189%;
+  height: 89%;
+  margin-left: 3%;
+  padding: 1%;
+  text-align: center;
+  text-decoration: none;
+  width: 16%;
+}
+.adminhome a:hover{
+	color:black ;
+	background:#664A2F;
+}
